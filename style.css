@@ -1,0 +1,8 @@
+body {
+    background-image: radial-gradient(circle at center, #00cc44, #00b33c, #009933, #00802b, #006622, #004d1a);
+    color: #ffffff;
+}
+
+.hasError {
+  color: red;
+}
